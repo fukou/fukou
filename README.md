@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Faiz Ichsan Jaya. I am a front-end web developer who is passionate in building a good design and app that is accessible to everyone ✨
+
 <!--
 **fukou/fukou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
