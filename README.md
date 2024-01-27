@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-My name is Faiz. I am a front-end web developer who is passionate in building a good design and app that is accessible to everyone. Currently working at SoftwareSeni and learning accessibility & UX Design. I am also a [theme maker](https://fukuo.tumblr.com/) on Tumblr. I occasionally post tutorials and free pre-build Tumblr themes for public use on that blog. Nice to meet you all!
+My name is Faiz. I am a front-end web developer who is passionate in building a good design and app that is accessible to everyone. Currently learning accessibility & UX Design. I am also a [theme maker](https://fukuo.tumblr.com/) on Tumblr. I occasionally post tutorials and free pre-build Tumblr themes for public use on that blog. Nice to meet you all!
 
 [ゆめにっき](https://atmospherica.tumblr.com/) :closed_umbrella:
 
